@@ -1,0 +1,14 @@
+table,
+tr,
+td,
+th {
+    border: 2px solid black;
+}
+
+.searchBtn {
+
+    padding: 14px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+}
